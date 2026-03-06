@@ -1,0 +1,501 @@
+Job_Title,Industry,Company_Size,Location,AI_Adoption_Level,Automation_Risk,Required_Skills,Salary_USD,Remote_Friendly,Job_Growth_Projection,AI_Impact_Score,Tasks_Automated_Pct
+Software Engineer,Media & Entertainment,Medium,Seattle,Medium,Low,"NLP, Leadership, Agile, Cloud Computing, Machine Learning",84373,No,Growth,36,34
+Machine Learning Engineer,Retail,Medium,Chicago,Low,High,"NLP, Cloud Computing",54400,No,Decline,75,67
+Customer Service Rep,Retail,Small,Boston,Medium,High,"SQL, Cybersecurity",55123,Yes,Decline,78,66
+Financial Analyst,Manufacturing,Medium,Chicago,Medium,High,"Agile, DevOps, Java",45945,Yes,Stable,88,84
+Content Writer,Finance,Small,Denver,Medium,High,"Python, Cloud Computing, Machine Learning, Communication, NLP",56163,No,Stable,76,72
+UX Designer,Education,Medium,Boston,Medium,Low,"Agile, UX Research, Communication, Python, SQL",94451,Yes,Stable,31,22
+Product Manager,Media & Entertainment,Medium,Seattle,High,Low,"DevOps, Cloud Computing, Financial Modeling",100643,Yes,Growth,29,27
+Product Manager,Retail,Medium,Seattle,Medium,Medium,"Deep Learning, NLP, Excel",59751,Yes,Decline,51,56
+Graphic Designer,Media & Entertainment,Large,Denver,Medium,Low,"Financial Modeling, Tableau, Project Management",95931,No,Stable,10,5
+Financial Analyst,Retail,Medium,Denver,Medium,Medium,"Data Analysis, Excel, Cloud Computing, Python, NLP",77127,Yes,Stable,43,32
+Graphic Designer,Government,Medium,Seattle,Medium,Low,"SQL, Project Management, NLP",82350,No,Growth,29,16
+Accountant,Education,Small,Seattle,Medium,Medium,"Leadership, Deep Learning",72654,Yes,Growth,44,25
+DevOps Engineer,Transportation,Small,Chicago,High,High,"Marketing Strategy, Communication, Python, Machine Learning",76792,No,Decline,88,75
+Content Writer,Healthcare,Small,Remote,Medium,Low,"Power BI, NLP, Java",92142,Yes,Decline,40,36
+HR Manager,Energy,Medium,Seattle,High,Medium,"Excel, Communication, Python",98275,Yes,Growth,71,79
+HR Manager,Energy,Small,San Francisco,Medium,High,"Leadership, Deep Learning, Cybersecurity",76864,Yes,Stable,83,89
+Graphic Designer,Finance,Medium,Remote,Medium,Medium,"DevOps, Python",65374,Yes,Growth,55,46
+Business Analyst,Government,Medium,Austin,Medium,High,"Machine Learning, Tableau, Financial Modeling, Cybersecurity",58145,No,Decline,82,97
+Financial Analyst,Education,Large,Denver,Medium,High,"Communication, Excel, UX Research, NLP, Cloud Computing",63787,Yes,Stable,100,90
+Legal Advisor,Finance,Medium,Austin,Medium,High,"NLP, Deep Learning, DevOps, Marketing Strategy, Machine Learning",42395,Yes,Decline,83,91
+Supply Chain Manager,Manufacturing,Small,Remote,Low,Low,"Tableau, Data Analysis, NLP, Python, Marketing Strategy",93394,Yes,Decline,26,23
+DevOps Engineer,Government,Large,Boston,High,Low,"Communication, Excel, NLP, Python, Java",103832,Yes,Growth,36,33
+Cybersecurity Analyst,Government,Small,Atlanta,High,High,"Cybersecurity, Tableau, Machine Learning, UX Research, Deep Learning",59341,No,Stable,54,47
+Legal Advisor,Transportation,Small,Los Angeles,Low,Medium,"NLP, Cloud Computing, Excel, UX Research",78935,Yes,Stable,51,56
+DevOps Engineer,Government,Medium,Denver,Medium,High,"Financial Modeling, SQL, UX Research",65267,No,Stable,68,69
+Business Analyst,Education,Small,Atlanta,Medium,Low,"Machine Learning, NLP, Deep Learning, Data Analysis",121847,Yes,Growth,31,20
+Healthcare Administrator,Government,Small,Denver,Low,Medium,"Cloud Computing, Deep Learning, Leadership, Financial Modeling",67172,No,Stable,71,49
+Sales Manager,Finance,Small,Remote,Low,Low,"DevOps, Financial Modeling",99420,No,Growth,27,23
+Machine Learning Engineer,Healthcare,Medium,Boston,Low,Low,"Machine Learning, Data Analysis, UX Research",106997,No,Stable,27,28
+Healthcare Administrator,Finance,Large,Austin,High,High,"Machine Learning, Cybersecurity",71649,No,Stable,75,70
+Software Engineer,Retail,Large,Seattle,Medium,Medium,"Machine Learning, Cybersecurity, Java",85275,No,Growth,50,48
+Legal Advisor,Technology,Large,San Francisco,Medium,Medium,"Cybersecurity, Communication",89121,No,Decline,56,57
+Data Scientist,Government,Medium,Remote,Low,Low,"Tableau, Project Management",71083,No,Stable,32,24
+Software Engineer,Finance,Medium,Denver,High,Low,"Marketing Strategy, Financial Modeling, Cybersecurity, SQL",95766,Yes,Growth,10,0
+Data Scientist,Healthcare,Large,Boston,Medium,Low,"Financial Modeling, Deep Learning, Power BI, Data Analysis, Java",87513,Yes,Growth,18,16
+Logistics Coordinator,Healthcare,Medium,Los Angeles,Low,High,"Cloud Computing, NLP, Marketing Strategy",50886,No,Stable,78,75
+Healthcare Administrator,Retail,Small,Remote,Medium,Medium,"Cloud Computing, NLP",69852,No,Stable,39,17
+Cybersecurity Analyst,Transportation,Small,Austin,Medium,Medium,"Power BI, Marketing Strategy, Cybersecurity, Financial Modeling",93271,No,Stable,51,54
+Financial Analyst,Retail,Medium,Boston,Medium,High,"Cybersecurity, UX Research, Project Management",61098,No,Stable,71,71
+Supply Chain Manager,Energy,Small,Atlanta,Medium,Medium,"UX Research, Python, Deep Learning, Java, DevOps",76295,Yes,Growth,47,29
+Product Manager,Manufacturing,Large,New York,High,Medium,"Excel, DevOps, UX Research, Python, Leadership",90580,No,Stable,48,50
+Financial Analyst,Government,Medium,Remote,High,High,"Agile, Power BI, SQL",62703,Yes,Decline,95,87
+Supply Chain Manager,Finance,Large,Remote,Low,Low,"SQL, Python",88534,No,Growth,16,12
+HR Manager,Education,Medium,Los Angeles,High,Low,"UX Research, Cloud Computing, Project Management, Agile, Leadership",92897,Yes,Stable,21,9
+Marketing Analyst,Energy,Medium,Boston,Medium,Low,"Python, Java, Data Analysis",99151,No,Growth,23,12
+Financial Analyst,Transportation,Medium,Seattle,Medium,Low,"Tableau, Deep Learning, Marketing Strategy, DevOps",103144,No,Growth,28,3
+Graphic Designer,Government,Large,Seattle,Low,High,"Excel, Data Analysis, SQL, NLP, Tableau",40880,No,Stable,75,56
+Business Analyst,Healthcare,Large,New York,Medium,High,"Financial Modeling, Agile",62899,No,Decline,73,62
+Graphic Designer,Government,Large,Chicago,Medium,Low,"Agile, Financial Modeling",87588,No,Growth,12,12
+Legal Advisor,Manufacturing,Small,New York,Medium,High,"Python, Java, UX Research, Power BI",60385,No,Stable,69,44
+Product Manager,Manufacturing,Large,Remote,Medium,Medium,"UX Research, Financial Modeling, SQL",76565,No,Decline,61,72
+Business Analyst,Transportation,Medium,Chicago,Low,Medium,"Excel, Cybersecurity",54231,No,Growth,71,57
+Customer Service Rep,Healthcare,Small,Austin,Medium,Medium,"Leadership, Power BI, Cybersecurity",76114,No,Growth,37,19
+Legal Advisor,Energy,Medium,Remote,High,Medium,"Project Management, Power BI, Data Analysis",88268,Yes,Stable,58,56
+Graphic Designer,Media & Entertainment,Large,Los Angeles,Medium,High,"DevOps, Cybersecurity, Communication",53744,No,Growth,94,85
+UX Designer,Manufacturing,Medium,Remote,Medium,Low,"Marketing Strategy, Communication",72978,Yes,Decline,15,8
+Sales Manager,Manufacturing,Small,Atlanta,Medium,Low,"Java, Cybersecurity",88288,Yes,Stable,24,24
+Cybersecurity Analyst,Retail,Small,Atlanta,Medium,Medium,"Leadership, Project Management, Agile",61238,No,Growth,32,15
+Legal Advisor,Transportation,Small,Denver,High,Low,"Python, Excel, Leadership",91565,No,Stable,26,27
+Healthcare Administrator,Energy,Small,New York,Medium,Low,"Python, Deep Learning, Project Management",114252,No,Growth,30,22
+Logistics Coordinator,Energy,Small,Chicago,Medium,Medium,"Cybersecurity, Power BI, Machine Learning, Project Management, Agile",101422,No,Growth,62,62
+Cybersecurity Analyst,Energy,Medium,New York,Low,Low,"Marketing Strategy, NLP, Tableau, Project Management, Machine Learning",79641,No,Growth,14,12
+Sales Manager,Education,Large,Chicago,Low,High,"Deep Learning, SQL",65730,Yes,Growth,69,62
+Product Manager,Media & Entertainment,Medium,New York,Medium,Medium,"Communication, Tableau",58559,Yes,Stable,55,43
+Financial Analyst,Education,Medium,Denver,High,Medium,"Cybersecurity, Python, Deep Learning, Agile",83413,No,Stable,49,38
+Product Manager,Media & Entertainment,Medium,Atlanta,Medium,Low,"UX Research, Communication, Deep Learning, Power BI, Tableau",86326,Yes,Stable,25,20
+Cybersecurity Analyst,Education,Large,Los Angeles,High,Medium,"Deep Learning, Cybersecurity, SQL, DevOps",71466,No,Growth,51,61
+Business Analyst,Government,Large,Austin,High,Medium,"Java, Financial Modeling, Python",89385,No,Stable,50,52
+Supply Chain Manager,Manufacturing,Medium,Denver,Low,Medium,"SQL, Data Analysis",51756,No,Stable,55,44
+Sales Manager,Retail,Small,Chicago,Medium,Medium,"NLP, Communication",79440,Yes,Stable,36,15
+HR Manager,Healthcare,Small,Austin,High,High,"Java, Machine Learning, NLP, Cybersecurity, SQL",76371,No,Growth,62,50
+Software Engineer,Retail,Small,Boston,Medium,Low,"Java, Tableau, Project Management, Agile",112592,No,Growth,23,30
+Machine Learning Engineer,Government,Small,Chicago,Low,Low,"Deep Learning, Java, Data Analysis, Python, Communication",82085,Yes,Stable,15,14
+Legal Advisor,Media & Entertainment,Small,Chicago,Low,High,"Cloud Computing, Leadership, NLP",56430,No,Stable,77,72
+Customer Service Rep,Finance,Large,New York,High,Low,"Python, Java, Agile",112074,Yes,Stable,33,31
+Healthcare Administrator,Technology,Medium,Seattle,Medium,Low,"Cloud Computing, Agile, Data Analysis",64832,No,Growth,13,2
+Healthcare Administrator,Manufacturing,Large,Los Angeles,High,High,"Marketing Strategy, Communication, Python, DevOps",84402,No,Decline,72,74
+Graphic Designer,Media & Entertainment,Small,San Francisco,Medium,Medium,"Project Management, UX Research, Java, Financial Modeling",87401,Yes,Growth,59,41
+UX Designer,Finance,Medium,Remote,Low,Medium,"Java, Financial Modeling, UX Research, Data Analysis, Cybersecurity",78972,No,Growth,68,62
+Customer Service Rep,Energy,Large,Boston,Medium,High,"Cloud Computing, Project Management, NLP, Excel",69885,No,Decline,86,78
+Business Analyst,Transportation,Small,Atlanta,Low,High,"Deep Learning, Machine Learning, Data Analysis",35138,Yes,Stable,86,83
+Marketing Analyst,Government,Small,Remote,Medium,High,"Marketing Strategy, SQL, Excel",55626,No,Decline,82,72
+Product Manager,Technology,Medium,Denver,Medium,Medium,"UX Research, Financial Modeling, Cybersecurity, Cloud Computing, NLP",89668,No,Stable,49,48
+HR Manager,Manufacturing,Large,Atlanta,High,High,"Power BI, Financial Modeling, Communication, Leadership",66315,Yes,Decline,84,77
+Graphic Designer,Healthcare,Large,Chicago,Low,Low,"Financial Modeling, DevOps, Machine Learning, Power BI, Data Analysis",82136,No,Growth,15,11
+Logistics Coordinator,Technology,Medium,Seattle,High,High,"Project Management, Cybersecurity",67925,Yes,Stable,75,58
+Business Analyst,Energy,Small,San Francisco,Medium,Medium,"Power BI, Python, NLP",89539,No,Growth,59,61
+Software Engineer,Manufacturing,Medium,Austin,Medium,Low,"Agile, DevOps, NLP, Tableau",106235,No,Growth,39,31
+Financial Analyst,Retail,Large,Chicago,High,Low,"SQL, Cybersecurity",100664,Yes,Stable,17,10
+Data Scientist,Technology,Medium,New York,High,Low,"Agile, Python, Cloud Computing, Cybersecurity",102073,No,Growth,37,32
+Supply Chain Manager,Media & Entertainment,Medium,Boston,Medium,Medium,"Machine Learning, UX Research, SQL, Excel, Agile",55981,Yes,Growth,56,58
+Content Writer,Energy,Medium,San Francisco,Medium,Medium,"Data Analysis, Communication, Marketing Strategy",80016,No,Growth,52,34
+Data Scientist,Education,Medium,Austin,High,Low,"Communication, Power BI, Project Management, Cybersecurity, Java",100637,No,Growth,26,23
+UX Designer,Finance,Medium,Boston,Medium,Medium,"Power BI, UX Research, Financial Modeling, Agile",87594,Yes,Stable,70,73
+Content Writer,Government,Small,Austin,Medium,Low,"Communication, Java",88881,Yes,Stable,29,23
+Cybersecurity Analyst,Transportation,Medium,Atlanta,Medium,Low,"Deep Learning, Agile, Data Analysis",127379,Yes,Growth,0,0
+Software Engineer,Finance,Medium,Seattle,High,High,"Python, Cloud Computing",80486,Yes,Growth,87,77
+Cybersecurity Analyst,Technology,Large,Boston,Low,High,"Marketing Strategy, Agile, UX Research, Excel, Java",40790,Yes,Growth,86,93
+Sales Manager,Energy,Medium,Boston,Medium,Medium,"Java, Agile, UX Research",80815,No,Growth,70,58
+Accountant,Healthcare,Medium,Los Angeles,Medium,Medium,"Power BI, Deep Learning, Java, Financial Modeling",79537,Yes,Decline,54,48
+Product Manager,Energy,Large,San Francisco,Medium,Low,"Python, Leadership, Agile, NLP",117392,No,Growth,28,21
+DevOps Engineer,Manufacturing,Large,Denver,Medium,Medium,"NLP, Marketing Strategy, Excel, Tableau, DevOps",80725,No,Stable,51,28
+HR Manager,Education,Large,New York,High,Low,"Agile, Leadership, Tableau, SQL, Java",93415,No,Stable,15,19
+Logistics Coordinator,Government,Medium,Austin,Low,High,"NLP, DevOps, SQL, Python",46898,Yes,Decline,91,79
+Machine Learning Engineer,Transportation,Medium,Denver,Low,Medium,"NLP, Data Analysis, Excel, Cybersecurity",78515,Yes,Decline,57,55
+Healthcare Administrator,Retail,Small,Remote,Medium,High,"Python, Leadership, Data Analysis",57434,No,Decline,100,97
+HR Manager,Media & Entertainment,Medium,Boston,Low,High,"Machine Learning, DevOps, Power BI, Python, Tableau",39497,Yes,Decline,77,68
+UX Designer,Government,Large,New York,Medium,Low,"UX Research, Machine Learning, DevOps, Leadership",104523,No,Stable,29,11
+Machine Learning Engineer,Finance,Large,Austin,Medium,High,"Tableau, Java, Power BI, Cloud Computing",77683,No,Decline,92,78
+Customer Service Rep,Education,Medium,Denver,High,Medium,"Deep Learning, Communication, Agile",78489,Yes,Stable,60,43
+Data Scientist,Healthcare,Small,Austin,Low,Low,"Financial Modeling, Power BI",103336,No,Growth,20,32
+HR Manager,Transportation,Large,Atlanta,Medium,Low,"Leadership, Machine Learning, Project Management, Excel, UX Research",126751,No,Growth,26,13
+Financial Analyst,Retail,Small,Denver,Low,High,"Python, Cybersecurity, Deep Learning, Leadership",43852,Yes,Decline,67,70
+Logistics Coordinator,Government,Small,Seattle,Medium,Low,"Cloud Computing, Cybersecurity",98271,Yes,Growth,19,11
+Content Writer,Energy,Medium,Denver,Medium,Medium,"Excel, Financial Modeling, Marketing Strategy, DevOps, NLP",107595,No,Stable,64,59
+Cybersecurity Analyst,Technology,Medium,Denver,Low,High,"DevOps, Communication",56313,Yes,Stable,78,89
+Software Engineer,Government,Small,Chicago,Medium,Medium,"Agile, Data Analysis",81375,No,Growth,41,38
+Customer Service Rep,Manufacturing,Medium,Chicago,Low,Medium,"DevOps, Marketing Strategy",62139,Yes,Stable,62,47
+Cybersecurity Analyst,Energy,Small,Austin,Low,Medium,"Project Management, Power BI, Data Analysis",80984,Yes,Growth,60,62
+Marketing Analyst,Energy,Small,Austin,High,High,"Tableau, Cloud Computing, Marketing Strategy, Power BI",80744,No,Growth,75,78
+Sales Manager,Technology,Small,Boston,Medium,Medium,"Machine Learning, DevOps, Deep Learning",83712,Yes,Growth,38,25
+Sales Manager,Transportation,Large,Atlanta,Medium,Medium,"Marketing Strategy, Excel, NLP",78740,No,Growth,58,40
+Business Analyst,Technology,Large,Denver,High,Medium,"Deep Learning, Project Management, NLP",76256,Yes,Growth,46,31
+Marketing Analyst,Retail,Small,Chicago,High,Low,"Leadership, Financial Modeling, UX Research, Java, NLP",113756,Yes,Stable,25,28
+Customer Service Rep,Government,Small,Chicago,Medium,High,"Java, Machine Learning",51563,No,Stable,70,61
+Financial Analyst,Retail,Large,Seattle,Medium,Medium,"SQL, Deep Learning",84535,No,Stable,44,38
+Logistics Coordinator,Technology,Medium,San Francisco,Low,Medium,"Leadership, Tableau",81096,No,Growth,52,46
+Graphic Designer,Healthcare,Large,San Francisco,Medium,Low,"Data Analysis, Agile",78676,No,Decline,32,36
+Customer Service Rep,Government,Large,Chicago,Low,Low,"Financial Modeling, Power BI, Leadership, Cloud Computing, Machine Learning",107934,Yes,Growth,34,29
+Business Analyst,Finance,Large,Boston,High,High,"Cybersecurity, Leadership, Financial Modeling",59469,Yes,Decline,78,67
+Logistics Coordinator,Government,Small,Denver,Medium,Medium,"Financial Modeling, NLP, Agile, Python",61193,No,Growth,53,62
+Customer Service Rep,Technology,Small,Remote,Medium,High,"NLP, Agile, Tableau, Cloud Computing",63383,No,Decline,63,65
+Graphic Designer,Transportation,Large,Remote,Low,High,"Cloud Computing, Excel",48546,No,Decline,82,75
+Legal Advisor,Retail,Small,Remote,High,Low,"Data Analysis, Power BI, Leadership",88416,No,Growth,48,29
+Cybersecurity Analyst,Technology,Large,Seattle,Medium,High,"Communication, Marketing Strategy, Project Management, SQL",62841,Yes,Decline,57,57
+Content Writer,Finance,Large,San Francisco,High,High,"Data Analysis, SQL",58658,Yes,Decline,73,83
+Software Engineer,Technology,Small,Boston,Medium,High,"UX Research, Java, Cloud Computing, Power BI, Tableau",60450,No,Stable,78,66
+Accountant,Media & Entertainment,Small,Chicago,Low,High,"Excel, UX Research, DevOps, SQL, Data Analysis",39258,No,Growth,73,62
+Logistics Coordinator,Education,Small,Austin,Medium,Medium,"UX Research, Financial Modeling, Leadership, NLP",67631,Yes,Stable,53,38
+Cybersecurity Analyst,Government,Medium,Chicago,High,Low,"Cybersecurity, Java, Cloud Computing, Financial Modeling, SQL",101268,Yes,Growth,27,13
+Logistics Coordinator,Media & Entertainment,Small,Seattle,Medium,High,"Data Analysis, Marketing Strategy, Cloud Computing, Deep Learning",68253,No,Growth,79,76
+Software Engineer,Manufacturing,Large,Denver,Low,Medium,"Marketing Strategy, Excel, Data Analysis",73223,No,Decline,50,45
+Financial Analyst,Healthcare,Large,Remote,High,High,"Project Management, Power BI, Communication, Financial Modeling",41566,Yes,Decline,89,87
+Logistics Coordinator,Manufacturing,Large,Los Angeles,High,Low,"Java, Deep Learning, Communication, Cloud Computing, Power BI",112734,No,Stable,25,11
+Machine Learning Engineer,Education,Medium,San Francisco,Medium,Medium,"Cloud Computing, Machine Learning, Data Analysis, NLP",97739,Yes,Stable,34,29
+Cybersecurity Analyst,Government,Small,Boston,Medium,Low,"SQL, NLP",102775,Yes,Stable,23,26
+Marketing Analyst,Finance,Medium,Chicago,Medium,Low,"Data Analysis, Cybersecurity, Marketing Strategy",112289,No,Decline,27,28
+Product Manager,Energy,Large,Los Angeles,Medium,High,"Python, Communication, UX Research, Financial Modeling, Project Management",38059,Yes,Decline,81,59
+Product Manager,Transportation,Medium,Los Angeles,High,High,"Python, Marketing Strategy, Deep Learning, Data Analysis, Communication",77294,Yes,Stable,75,61
+Cybersecurity Analyst,Education,Small,Remote,High,Low,"Deep Learning, NLP, Financial Modeling, Data Analysis, Tableau",112429,No,Decline,30,1
+Software Engineer,Transportation,Medium,Seattle,Medium,Low,"Data Analysis, Leadership, Tableau",82405,Yes,Growth,13,3
+Product Manager,Finance,Medium,Denver,Low,Low,"Communication, NLP",90156,No,Growth,24,9
+Sales Manager,Healthcare,Medium,Seattle,Medium,Medium,"Power BI, Agile, Excel, Marketing Strategy, Leadership",53835,Yes,Decline,57,37
+Sales Manager,Technology,Medium,Atlanta,High,Medium,"UX Research, Cybersecurity, Agile",70567,No,Decline,52,41
+Marketing Analyst,Technology,Small,Seattle,Medium,Medium,"Financial Modeling, UX Research",77169,Yes,Decline,62,41
+Customer Service Rep,Retail,Small,New York,Medium,Medium,"Machine Learning, Marketing Strategy",73274,No,Stable,56,44
+Legal Advisor,Retail,Small,New York,High,Low,"Financial Modeling, UX Research, Cybersecurity, NLP, Project Management",116582,No,Stable,18,16
+Data Scientist,Education,Medium,San Francisco,High,Low,"Cybersecurity, Data Analysis",91668,No,Stable,31,25
+Business Analyst,Government,Small,Denver,Low,Medium,"Communication, Tableau, Leadership, NLP",80719,No,Growth,60,34
+Cybersecurity Analyst,Energy,Medium,Austin,High,Low,"Cybersecurity, NLP, Financial Modeling, Data Analysis",112913,Yes,Stable,27,29
+Cybersecurity Analyst,Manufacturing,Large,Seattle,Medium,High,"DevOps, Excel, Java",67925,Yes,Growth,91,100
+Accountant,Transportation,Small,Denver,High,High,"Excel, Cloud Computing, Leadership, Tableau",43277,No,Stable,76,69
+Cybersecurity Analyst,Transportation,Small,New York,Medium,Low,"Excel, Power BI, Python, Project Management, UX Research",83117,Yes,Stable,3,0
+Customer Service Rep,Manufacturing,Small,New York,Low,High,"Power BI, Agile, Project Management, Python, Cloud Computing",67268,No,Stable,81,82
+Marketing Analyst,Media & Entertainment,Large,Denver,High,Low,"Machine Learning, Financial Modeling, Communication",123521,No,Stable,19,25
+Sales Manager,Education,Small,Atlanta,Medium,Medium,"Deep Learning, Python, Java, DevOps, Excel",85956,No,Stable,62,61
+Business Analyst,Education,Medium,Seattle,Medium,Low,"Power BI, Agile, Cloud Computing",126478,No,Stable,21,18
+Logistics Coordinator,Education,Small,Atlanta,Medium,Low,"NLP, Deep Learning",103829,No,Stable,28,17
+Graphic Designer,Technology,Medium,San Francisco,Low,Medium,"Tableau, Communication, Project Management, Agile, Excel",74237,No,Decline,61,50
+UX Designer,Retail,Small,San Francisco,High,Medium,"Machine Learning, SQL, Agile, NLP, Marketing Strategy",100613,Yes,Growth,46,32
+Business Analyst,Retail,Small,Boston,Medium,High,"Cloud Computing, Project Management, Leadership, Financial Modeling, SQL",66092,Yes,Stable,80,74
+Business Analyst,Energy,Medium,Austin,Medium,Low,"NLP, UX Research, Excel, Data Analysis",88827,No,Stable,22,10
+DevOps Engineer,Education,Large,New York,Medium,High,"Excel, DevOps, SQL",56467,No,Stable,89,94
+DevOps Engineer,Technology,Medium,New York,Low,High,"Leadership, Marketing Strategy, Tableau, Cloud Computing",53823,No,Growth,69,65
+Software Engineer,Education,Small,San Francisco,Medium,Medium,"Data Analysis, Communication, SQL, Financial Modeling, Cybersecurity",67069,Yes,Growth,51,55
+Financial Analyst,Finance,Medium,Denver,Medium,Low,"Power BI, UX Research, Python, NLP, Tableau",92553,No,Decline,1,4
+Software Engineer,Manufacturing,Medium,Boston,Medium,High,"Agile, Python, Data Analysis",31472,Yes,Decline,86,79
+Graphic Designer,Energy,Large,Seattle,Low,Low,"Excel, Communication, Deep Learning",102575,Yes,Stable,19,0
+Content Writer,Education,Medium,Austin,Low,Medium,"SQL, Cybersecurity, Excel, Marketing Strategy, Cloud Computing",79356,No,Stable,50,54
+Business Analyst,Technology,Large,New York,High,Low,"Leadership, Agile, Data Analysis, Cloud Computing",101326,Yes,Growth,44,39
+Legal Advisor,Government,Small,Boston,Low,Medium,"DevOps, Financial Modeling, Java, SQL, Communication",75671,No,Stable,67,71
+Accountant,Media & Entertainment,Medium,Chicago,Low,High,"SQL, Data Analysis, Cloud Computing, UX Research, Communication",72639,Yes,Stable,80,97
+Graphic Designer,Technology,Large,San Francisco,Medium,High,"Data Analysis, Power BI",35342,Yes,Stable,73,80
+Graphic Designer,Manufacturing,Medium,Boston,High,High,"Cybersecurity, Project Management, Deep Learning, UX Research",67370,No,Decline,95,82
+Accountant,Retail,Medium,Remote,Low,Low,"SQL, Machine Learning, UX Research",90346,Yes,Growth,40,32
+Sales Manager,Government,Small,Denver,Medium,Medium,"Project Management, Java, UX Research, Deep Learning, Cybersecurity",78959,No,Growth,61,64
+DevOps Engineer,Media & Entertainment,Large,Seattle,Low,Medium,"Cybersecurity, Cloud Computing",64350,No,Decline,60,51
+UX Designer,Transportation,Medium,Denver,High,Medium,"Project Management, Tableau",91911,No,Decline,31,21
+Supply Chain Manager,Technology,Medium,San Francisco,High,High,"UX Research, Cloud Computing",81281,Yes,Decline,61,53
+Legal Advisor,Healthcare,Small,Austin,Low,Low,"Tableau, Excel, SQL, Communication, Data Analysis",120282,No,Growth,22,9
+UX Designer,Finance,Medium,Remote,Medium,Low,"Communication, Agile, Cybersecurity, Marketing Strategy, DevOps",98443,No,Growth,20,21
+Data Scientist,Retail,Small,Atlanta,Low,High,"Machine Learning, Tableau, Deep Learning, Java, Marketing Strategy",45068,No,Stable,66,59
+Data Scientist,Healthcare,Medium,Remote,Low,Medium,"Cloud Computing, Data Analysis",82943,No,Growth,60,47
+Healthcare Administrator,Healthcare,Medium,Los Angeles,Medium,Medium,"Machine Learning, DevOps",76639,No,Stable,53,47
+Supply Chain Manager,Education,Medium,Boston,Low,Medium,"NLP, Excel, Marketing Strategy",74972,No,Decline,77,71
+Product Manager,Media & Entertainment,Small,Remote,Medium,Low,"Cybersecurity, DevOps, Machine Learning, Financial Modeling, Leadership",102986,No,Decline,21,11
+Business Analyst,Technology,Medium,New York,Low,Medium,"Leadership, Communication, Machine Learning, UX Research, Tableau",75131,No,Stable,52,32
+Healthcare Administrator,Manufacturing,Small,New York,Low,Medium,"Java, Deep Learning",87988,Yes,Stable,56,49
+Legal Advisor,Finance,Small,Denver,Low,Medium,"DevOps, Cybersecurity, UX Research, Marketing Strategy, Cloud Computing",82574,No,Stable,75,56
+Marketing Analyst,Media & Entertainment,Medium,Los Angeles,High,High,"Project Management, Cybersecurity",39979,No,Decline,94,100
+Healthcare Administrator,Government,Large,Remote,Low,High,"SQL, UX Research, Project Management, NLP, Tableau",43701,No,Stable,81,75
+Accountant,Transportation,Medium,Boston,Medium,Low,"Financial Modeling, Project Management, Leadership, Deep Learning, Tableau",116468,Yes,Growth,39,36
+Data Scientist,Transportation,Large,New York,Medium,High,"Excel, Java, Power BI, Leadership, Data Analysis",40701,No,Growth,79,75
+Content Writer,Education,Medium,Chicago,High,High,"Leadership, Cloud Computing, Marketing Strategy",74926,Yes,Decline,61,50
+HR Manager,Education,Medium,Denver,High,Medium,"Marketing Strategy, Agile, SQL, Cybersecurity, Project Management",76802,No,Decline,54,49
+DevOps Engineer,Finance,Medium,Remote,High,High,"Leadership, NLP, Financial Modeling, DevOps, UX Research",79489,Yes,Decline,70,76
+Product Manager,Energy,Small,Austin,Medium,High,"Python, Deep Learning",47311,Yes,Decline,79,69
+HR Manager,Retail,Medium,New York,Medium,High,"Tableau, Agile, UX Research",47900,No,Decline,76,68
+Legal Advisor,Technology,Small,San Francisco,Medium,Low,"Financial Modeling, SQL, Communication, Marketing Strategy",105822,Yes,Growth,37,30
+Content Writer,Energy,Large,Austin,Low,Low,"UX Research, Leadership",73922,Yes,Stable,14,8
+Cybersecurity Analyst,Media & Entertainment,Large,Boston,Medium,Medium,"Cybersecurity, Project Management, SQL, Python",84718,No,Decline,53,51
+Cybersecurity Analyst,Energy,Small,Remote,High,High,"NLP, Marketing Strategy, Machine Learning, Cybersecurity",73478,No,Decline,90,76
+Software Engineer,Transportation,Medium,Austin,Medium,Medium,"Leadership, Tableau",75551,No,Stable,43,27
+Software Engineer,Energy,Medium,Atlanta,Medium,Medium,"Financial Modeling, Cybersecurity",68666,No,Growth,61,49
+Graphic Designer,Healthcare,Medium,Boston,Low,Low,"Java, Cloud Computing, Power BI, Python",92998,No,Growth,35,20
+Graphic Designer,Finance,Small,Remote,Medium,Low,"Communication, Cloud Computing",91666,No,Growth,18,0
+Marketing Analyst,Healthcare,Medium,Boston,High,Medium,"Java, Financial Modeling, Cybersecurity",82068,No,Stable,59,45
+Sales Manager,Media & Entertainment,Small,Chicago,Medium,Low,"Cloud Computing, Excel, Communication, Power BI",104617,No,Stable,23,11
+Accountant,Transportation,Medium,San Francisco,Medium,Medium,"Java, Agile, Deep Learning, Machine Learning",76909,Yes,Decline,46,41
+UX Designer,Media & Entertainment,Medium,Los Angeles,Low,Low,"Java, Excel",88162,Yes,Stable,25,15
+Financial Analyst,Technology,Medium,Austin,Medium,Low,"Data Analysis, Machine Learning, Financial Modeling",103587,No,Stable,44,25
+Logistics Coordinator,Education,Small,Remote,High,Low,"Tableau, Machine Learning, Project Management",93051,Yes,Stable,25,18
+Graphic Designer,Government,Small,Seattle,Medium,High,"SQL, Machine Learning, Project Management, Tableau, Java",53187,No,Stable,71,78
+Data Scientist,Education,Small,New York,Medium,Low,"Excel, UX Research, NLP",82376,No,Growth,30,37
+Business Analyst,Energy,Medium,Denver,Medium,Low,"Agile, Communication, Machine Learning",77259,Yes,Growth,28,25
+Financial Analyst,Finance,Large,Austin,High,High,"Agile, Leadership, Tableau",68641,No,Decline,84,78
+Supply Chain Manager,Healthcare,Large,San Francisco,High,Low,"Tableau, Data Analysis, Project Management, NLP, Agile",116746,Yes,Growth,20,15
+Accountant,Healthcare,Medium,Remote,High,Medium,"Tableau, Marketing Strategy",79180,No,Growth,74,81
+Financial Analyst,Technology,Small,Seattle,Medium,Low,"Machine Learning, Excel",84724,No,Growth,27,11
+Product Manager,Energy,Small,Los Angeles,High,Low,"UX Research, Power BI, SQL",117676,Yes,Stable,17,25
+Supply Chain Manager,Technology,Large,Chicago,High,High,"Communication, NLP, UX Research",84200,Yes,Stable,77,51
+Supply Chain Manager,Education,Medium,Seattle,Medium,Low,"Agile, Java, Cloud Computing, Excel",102212,No,Growth,9,15
+Marketing Analyst,Media & Entertainment,Medium,Remote,Low,Medium,"Power BI, Cloud Computing",74631,No,Growth,41,29
+Business Analyst,Manufacturing,Large,Los Angeles,Low,High,"Agile, Power BI, Leadership, Cybersecurity",73542,No,Stable,95,91
+HR Manager,Education,Medium,San Francisco,High,Medium,"DevOps, Machine Learning",79175,Yes,Decline,51,55
+Cybersecurity Analyst,Technology,Large,Atlanta,High,High,"NLP, Machine Learning, Communication, Data Analysis, Tableau",59449,No,Stable,81,83
+Healthcare Administrator,Healthcare,Medium,Denver,High,High,"Python, Deep Learning, Machine Learning, Cloud Computing",58623,No,Growth,80,80
+Customer Service Rep,Healthcare,Large,San Francisco,High,Medium,"Python, NLP, Data Analysis",91862,Yes,Stable,54,42
+UX Designer,Transportation,Medium,Seattle,Low,Medium,"NLP, Agile, Project Management, Excel",77410,Yes,Decline,45,32
+Financial Analyst,Healthcare,Medium,San Francisco,High,Medium,"Financial Modeling, Agile, Cybersecurity",79305,Yes,Decline,56,48
+Data Scientist,Manufacturing,Medium,Boston,High,Low,"DevOps, SQL",115308,No,Growth,16,10
+Legal Advisor,Finance,Medium,Boston,Low,Low,"Java, Power BI, Project Management, NLP, DevOps",81694,Yes,Stable,34,38
+Software Engineer,Transportation,Small,New York,Low,Medium,"Power BI, Leadership",90941,No,Growth,49,50
+DevOps Engineer,Media & Entertainment,Small,Austin,Medium,High,"Power BI, SQL",61581,No,Decline,96,97
+Marketing Analyst,Finance,Small,Chicago,Low,Medium,"Communication, Marketing Strategy",60015,No,Stable,57,56
+Software Engineer,Education,Large,Denver,High,Medium,"Communication, SQL",93021,Yes,Decline,43,48
+Financial Analyst,Media & Entertainment,Large,Remote,Low,High,"Project Management, SQL, Power BI, Agile",45491,Yes,Decline,97,93
+Sales Manager,Media & Entertainment,Medium,Atlanta,Low,Medium,"Java, Cybersecurity",67701,No,Decline,48,42
+Cybersecurity Analyst,Government,Small,Chicago,Medium,High,"Deep Learning, Machine Learning, NLP",49487,No,Decline,89,84
+Supply Chain Manager,Manufacturing,Large,Seattle,Medium,Low,"Tableau, SQL",107525,Yes,Growth,30,30
+Data Scientist,Technology,Medium,Chicago,Medium,Medium,"Power BI, Excel",62935,Yes,Growth,65,49
+Marketing Analyst,Finance,Large,Los Angeles,High,High,"Cybersecurity, Marketing Strategy, Python, Leadership, SQL",78961,Yes,Decline,74,69
+Data Scientist,Transportation,Medium,New York,Medium,Medium,"Cybersecurity, Communication",64196,No,Stable,55,36
+Logistics Coordinator,Energy,Small,Seattle,High,Medium,"Deep Learning, SQL, Python",84247,No,Growth,70,56
+Marketing Analyst,Government,Large,Boston,Medium,Low,"Agile, Excel, SQL, Deep Learning",110909,No,Stable,28,16
+Cybersecurity Analyst,Education,Large,Los Angeles,Medium,High,"UX Research, Python, Communication",59463,Yes,Growth,96,83
+Supply Chain Manager,Education,Large,Atlanta,Medium,Medium,"Financial Modeling, Cybersecurity, Power BI",74114,Yes,Decline,65,57
+Sales Manager,Manufacturing,Small,Austin,Low,Low,"Marketing Strategy, Tableau, Cybersecurity, NLP",106533,No,Stable,38,27
+Graphic Designer,Education,Medium,San Francisco,Medium,Medium,"Leadership, Tableau, Python",77394,Yes,Stable,59,53
+Legal Advisor,Media & Entertainment,Small,Seattle,High,Medium,"Marketing Strategy, Tableau, Financial Modeling",96273,Yes,Growth,44,35
+Healthcare Administrator,Government,Medium,San Francisco,Low,Medium,"Power BI, Deep Learning, Agile",85357,Yes,Growth,51,47
+Marketing Analyst,Energy,Large,New York,Medium,High,"Tableau, Communication, Leadership",60769,No,Stable,76,71
+Product Manager,Education,Small,Seattle,Low,Medium,"Cybersecurity, Project Management, Tableau",70821,Yes,Growth,57,53
+DevOps Engineer,Manufacturing,Small,Boston,High,High,"Java, SQL, DevOps, Communication, Agile",74908,Yes,Stable,81,75
+UX Designer,Education,Small,Denver,Low,Medium,"Agile, UX Research",75360,Yes,Stable,39,22
+Supply Chain Manager,Energy,Small,Boston,Low,High,"Python, SQL",51649,No,Growth,98,87
+Supply Chain Manager,Technology,Small,Denver,High,Medium,"Agile, UX Research, Cloud Computing, Java, Cybersecurity",78869,Yes,Growth,52,32
+UX Designer,Retail,Large,Remote,Medium,Medium,"Communication, Data Analysis, Marketing Strategy, DevOps",92622,No,Stable,59,53
+Logistics Coordinator,Energy,Medium,Austin,High,High,"Deep Learning, Cloud Computing",65786,Yes,Growth,80,74
+UX Designer,Government,Medium,Denver,Medium,High,"Financial Modeling, NLP, Machine Learning, Communication",64569,Yes,Growth,81,65
+Content Writer,Finance,Medium,Atlanta,Medium,High,"NLP, Machine Learning, Financial Modeling, Java, Agile",83787,No,Stable,74,68
+Accountant,Technology,Small,Seattle,High,High,"Project Management, Excel",82541,Yes,Decline,87,82
+Cybersecurity Analyst,Healthcare,Medium,Los Angeles,Medium,High,"Project Management, Marketing Strategy, Leadership",76349,No,Growth,90,89
+Product Manager,Government,Large,Seattle,Medium,Medium,"Communication, Deep Learning, Machine Learning, Tableau, Excel",93655,No,Growth,62,59
+Financial Analyst,Media & Entertainment,Small,Chicago,Medium,Medium,"DevOps, Data Analysis, UX Research",82897,No,Stable,60,53
+Sales Manager,Education,Large,Denver,High,Medium,"Excel, SQL, DevOps",104777,No,Stable,41,30
+Accountant,Government,Large,Denver,High,Medium,"Data Analysis, Deep Learning, Power BI, Java, Agile",90357,Yes,Stable,45,52
+HR Manager,Manufacturing,Medium,Los Angeles,Medium,High,"Excel, Agile, Machine Learning",78734,No,Decline,89,81
+Business Analyst,Retail,Large,Seattle,Medium,High,"Data Analysis, Power BI, SQL, DevOps",64854,No,Decline,72,57
+Cybersecurity Analyst,Education,Small,Atlanta,High,Medium,"Java, Python, Machine Learning, UX Research",82461,Yes,Growth,53,59
+Cybersecurity Analyst,Energy,Small,Remote,Medium,Low,"Tableau, Cloud Computing",108708,Yes,Stable,18,0
+Legal Advisor,Government,Large,Remote,Medium,Low,"SQL, Excel, Tableau, Leadership, Java",107740,Yes,Stable,17,7
+Sales Manager,Energy,Medium,Remote,Medium,Low,"SQL, Cloud Computing, Financial Modeling, Data Analysis",129912,Yes,Stable,11,17
+Supply Chain Manager,Manufacturing,Small,Austin,Medium,Low,"Python, Project Management, Marketing Strategy",109438,No,Stable,6,7
+Logistics Coordinator,Transportation,Small,New York,Medium,Medium,"Data Analysis, Agile",72469,No,Growth,55,42
+Logistics Coordinator,Energy,Large,Atlanta,High,High,"DevOps, Machine Learning, Cloud Computing, Power BI",57166,No,Stable,66,48
+UX Designer,Media & Entertainment,Large,Boston,High,Medium,"Data Analysis, Cloud Computing, Communication, Power BI, UX Research",102077,Yes,Growth,61,58
+HR Manager,Energy,Small,Boston,High,Low,"Cybersecurity, Power BI, Financial Modeling, DevOps, SQL",105178,Yes,Stable,7,3
+Graphic Designer,Healthcare,Large,Chicago,High,Medium,"Cloud Computing, Agile",108682,Yes,Decline,48,47
+Product Manager,Healthcare,Large,Los Angeles,High,Medium,"Financial Modeling, Marketing Strategy, SQL",70447,No,Stable,35,19
+Accountant,Energy,Large,Seattle,Medium,High,"UX Research, Marketing Strategy",45278,Yes,Decline,85,78
+HR Manager,Energy,Medium,San Francisco,Medium,Medium,"Project Management, Python",85645,No,Stable,46,47
+Graphic Designer,Technology,Small,Seattle,Medium,High,"SQL, DevOps, Leadership, Communication",71221,Yes,Decline,82,71
+Customer Service Rep,Finance,Large,Los Angeles,High,Medium,"Project Management, Power BI, Cybersecurity",79645,Yes,Growth,47,28
+Machine Learning Engineer,Retail,Medium,Denver,Medium,Low,"Agile, Cloud Computing, UX Research",91276,No,Decline,22,13
+DevOps Engineer,Technology,Large,Los Angeles,Medium,High,"NLP, Java, Project Management, Cybersecurity",64764,Yes,Decline,91,93
+Customer Service Rep,Energy,Medium,Los Angeles,Low,Medium,"Leadership, Data Analysis, Excel, Deep Learning",80044,No,Stable,36,34
+Graphic Designer,Finance,Small,Austin,Low,Low,"Machine Learning, NLP",80412,No,Decline,20,27
+Product Manager,Government,Large,Atlanta,High,Low,"Leadership, Communication, Java",85084,No,Growth,22,19
+DevOps Engineer,Energy,Medium,Remote,Medium,Medium,"Deep Learning, Communication, UX Research, NLP",78813,Yes,Decline,50,39
+Accountant,Energy,Medium,Los Angeles,Medium,Medium,"Machine Learning, NLP, Cybersecurity, Project Management, Java",94783,No,Stable,43,30
+Cybersecurity Analyst,Finance,Large,Austin,Low,Medium,"Deep Learning, UX Research",78381,No,Decline,41,35
+Business Analyst,Technology,Medium,New York,Medium,Medium,"Data Analysis, Power BI, Tableau",112874,Yes,Decline,51,46
+Machine Learning Engineer,Manufacturing,Small,Chicago,High,Low,"Deep Learning, Power BI, Marketing Strategy, Python, SQL",109737,No,Growth,41,38
+Supply Chain Manager,Manufacturing,Small,San Francisco,Medium,Medium,"Data Analysis, Java, Machine Learning, SQL",64655,No,Decline,50,56
+Marketing Analyst,Education,Small,New York,Low,Low,"Python, Marketing Strategy, Communication, Java",83226,No,Stable,14,14
+Marketing Analyst,Retail,Large,Seattle,High,Medium,"SQL, Data Analysis, Python, Tableau, Financial Modeling",92707,Yes,Stable,44,27
+Financial Analyst,Government,Small,Atlanta,Medium,Low,"Project Management, Marketing Strategy",73156,Yes,Stable,28,25
+UX Designer,Technology,Medium,Chicago,Medium,Medium,"Tableau, Excel, Java, Data Analysis",89480,No,Stable,65,63
+Sales Manager,Transportation,Medium,Los Angeles,High,Medium,"Java, SQL, Tableau, Financial Modeling, Excel",102765,No,Stable,68,47
+Product Manager,Media & Entertainment,Small,Los Angeles,Medium,Low,"Java, Data Analysis, Financial Modeling, SQL, NLP",95107,Yes,Stable,38,43
+Cybersecurity Analyst,Finance,Large,Chicago,Medium,High,"Machine Learning, Data Analysis, Leadership",48062,No,Decline,82,90
+Content Writer,Government,Small,Denver,Medium,Medium,"Cloud Computing, Java, Financial Modeling",89302,Yes,Stable,48,34
+Financial Analyst,Manufacturing,Large,Chicago,Medium,Medium,"UX Research, SQL",67590,No,Stable,65,58
+UX Designer,Energy,Small,San Francisco,Medium,Medium,"Cloud Computing, Project Management",106865,No,Growth,46,50
+DevOps Engineer,Manufacturing,Small,Remote,High,High,"DevOps, Financial Modeling, Tableau, NLP",67051,Yes,Decline,83,67
+Customer Service Rep,Energy,Medium,Boston,High,High,"Marketing Strategy, Python, Machine Learning",62972,Yes,Growth,72,68
+Accountant,Transportation,Medium,Denver,Medium,Medium,"Tableau, Agile",81106,Yes,Stable,53,46
+Data Scientist,Education,Small,New York,Medium,Low,"Java, Power BI, SQL",104789,No,Stable,33,33
+Product Manager,Media & Entertainment,Small,Boston,High,Low,"Tableau, Excel, Communication, Cybersecurity",97175,Yes,Growth,2,0
+Logistics Coordinator,Retail,Medium,Los Angeles,High,High,"Machine Learning, Excel, Leadership",33653,Yes,Stable,80,72
+Logistics Coordinator,Finance,Small,Denver,Medium,Medium,"NLP, SQL, Cybersecurity, Machine Learning, Tableau",74704,No,Decline,60,61
+Healthcare Administrator,Healthcare,Medium,Remote,High,Low,"Machine Learning, Tableau",127204,Yes,Growth,39,34
+Machine Learning Engineer,Healthcare,Small,San Francisco,Medium,Low,"Leadership, Marketing Strategy, Machine Learning",90296,No,Stable,18,18
+Financial Analyst,Government,Medium,Seattle,Low,Medium,"UX Research, Financial Modeling",71348,Yes,Growth,58,52
+Financial Analyst,Media & Entertainment,Small,Remote,High,High,"UX Research, Java, Cybersecurity, Power BI, Marketing Strategy",52890,Yes,Decline,61,56
+Product Manager,Media & Entertainment,Small,Seattle,Low,Low,"Leadership, Data Analysis, Machine Learning, Cloud Computing, Python",99512,Yes,Stable,11,0
+Data Scientist,Government,Large,Chicago,High,Low,"Java, Tableau, Cybersecurity",91348,No,Growth,25,14
+Business Analyst,Energy,Small,Atlanta,Medium,High,"Java, NLP",50571,No,Decline,79,77
+Machine Learning Engineer,Government,Large,San Francisco,Low,High,"SQL, Agile",67038,Yes,Decline,71,68
+HR Manager,Retail,Medium,Remote,Medium,Medium,"Data Analysis, Financial Modeling, Machine Learning, Python",86487,No,Stable,51,46
+Supply Chain Manager,Technology,Large,Boston,Medium,High,"Financial Modeling, Python, Java, DevOps, Agile",60612,No,Growth,100,85
+Content Writer,Healthcare,Medium,Austin,High,High,"Excel, SQL",75859,Yes,Growth,92,91
+Accountant,Healthcare,Small,New York,Medium,High,"Communication, Leadership",60373,Yes,Stable,72,68
+Accountant,Energy,Medium,Seattle,Low,Low,"Data Analysis, NLP, Leadership, Agile, Marketing Strategy",91787,Yes,Growth,40,32
+Business Analyst,Government,Large,Los Angeles,High,Low,"Deep Learning, Project Management, Python, Java",115413,Yes,Stable,12,0
+HR Manager,Finance,Large,Denver,High,Low,"Cybersecurity, Communication",102126,Yes,Stable,32,23
+Content Writer,Education,Large,San Francisco,Medium,Low,"Leadership, Excel",98435,No,Growth,37,32
+Supply Chain Manager,Finance,Large,Los Angeles,High,Low,"Agile, Deep Learning, Cloud Computing, Java, Power BI",99679,Yes,Growth,28,3
+Customer Service Rep,Healthcare,Small,San Francisco,High,Medium,"Project Management, Data Analysis, Financial Modeling",87951,Yes,Stable,85,74
+Graphic Designer,Manufacturing,Small,Boston,Low,Low,"SQL, Java",107540,No,Growth,13,20
+UX Designer,Manufacturing,Small,Chicago,Medium,Low,"Cloud Computing, SQL, UX Research, Tableau",94348,No,Growth,19,16
+Marketing Analyst,Energy,Large,Los Angeles,Medium,Medium,"Project Management, Tableau, Python, UX Research",66225,Yes,Stable,50,60
+Cybersecurity Analyst,Transportation,Small,San Francisco,Low,Medium,"Marketing Strategy, SQL, Communication, Python, Power BI",48763,Yes,Growth,43,52
+Machine Learning Engineer,Energy,Large,Seattle,Medium,High,"Data Analysis, DevOps, Project Management",44107,No,Decline,76,68
+Graphic Designer,Energy,Large,Atlanta,Low,Low,"Tableau, SQL",110371,No,Growth,25,16
+Sales Manager,Transportation,Medium,New York,Medium,Medium,"DevOps, Marketing Strategy",98565,No,Stable,54,35
+Product Manager,Education,Medium,San Francisco,Medium,Low,"Java, DevOps, Deep Learning, NLP",98021,Yes,Stable,32,15
+Logistics Coordinator,Transportation,Small,Remote,High,Medium,"SQL, UX Research, Python, Deep Learning",82735,Yes,Stable,74,75
+Marketing Analyst,Finance,Large,New York,Medium,Medium,"Cybersecurity, UX Research",83997,No,Stable,44,42
+HR Manager,Technology,Medium,Austin,High,High,"NLP, Power BI, Marketing Strategy",48869,Yes,Stable,74,70
+Graphic Designer,Education,Large,Los Angeles,Low,Medium,"Excel, Marketing Strategy, Cloud Computing, Machine Learning, Tableau",86834,Yes,Growth,72,74
+UX Designer,Technology,Medium,Los Angeles,High,High,"SQL, Agile, Excel, Financial Modeling, Data Analysis",69671,No,Stable,69,67
+Accountant,Retail,Large,Chicago,Medium,Low,"Tableau, Power BI, Financial Modeling",88362,No,Growth,19,2
+Healthcare Administrator,Energy,Small,Denver,High,High,"Agile, Excel",73994,No,Decline,78,83
+Graphic Designer,Education,Medium,Seattle,Low,High,"Tableau, Leadership, Deep Learning, Communication",53084,No,Decline,78,73
+Financial Analyst,Retail,Medium,Boston,Medium,Low,"Communication, Leadership, Deep Learning",117177,No,Stable,28,15
+Data Scientist,Manufacturing,Large,Chicago,High,Low,"Machine Learning, Power BI, Cloud Computing, UX Research",108268,Yes,Growth,37,33
+Marketing Analyst,Finance,Medium,Seattle,Medium,High,"SQL, Cloud Computing",81372,Yes,Stable,67,67
+Content Writer,Retail,Small,Austin,Medium,Medium,"DevOps, SQL, Tableau, Power BI",81417,Yes,Decline,53,61
+Sales Manager,Government,Medium,New York,Medium,High,"UX Research, Java, Agile",64351,No,Decline,88,84
+Customer Service Rep,Finance,Medium,Seattle,High,High,"Tableau, Machine Learning, Project Management",83019,Yes,Decline,82,74
+Software Engineer,Manufacturing,Large,Seattle,Medium,High,"Marketing Strategy, Java",63963,Yes,Decline,79,78
+Product Manager,Finance,Small,Boston,Medium,Low,"Agile, Marketing Strategy",86317,No,Stable,18,8
+Marketing Analyst,Manufacturing,Small,Atlanta,High,Medium,"Python, Power BI, Cybersecurity, Data Analysis, Communication",71728,Yes,Stable,48,34
+Software Engineer,Education,Large,Los Angeles,Low,Low,"Cybersecurity, DevOps, Data Analysis, Cloud Computing, NLP",98758,No,Growth,33,27
+Legal Advisor,Education,Large,Atlanta,Medium,Low,"Cybersecurity, Python, Power BI, Financial Modeling",97165,No,Stable,16,11
+Data Scientist,Media & Entertainment,Medium,New York,Low,Low,"Data Analysis, Leadership, DevOps, Java, Power BI",101803,Yes,Growth,0,0
+Accountant,Retail,Small,Denver,High,Medium,"Financial Modeling, Tableau, Marketing Strategy",94586,Yes,Stable,48,37
+Cybersecurity Analyst,Manufacturing,Large,Seattle,High,Medium,"Cybersecurity, Communication",77884,Yes,Stable,53,50
+DevOps Engineer,Retail,Small,Chicago,Medium,Medium,"UX Research, Cloud Computing",74121,No,Stable,59,51
+Business Analyst,Energy,Medium,San Francisco,High,High,"Data Analysis, Financial Modeling, Excel, UX Research",78313,Yes,Stable,81,54
+Content Writer,Finance,Large,Seattle,Medium,Medium,"Cloud Computing, Financial Modeling, Machine Learning",76141,Yes,Decline,77,54
+Sales Manager,Technology,Small,Atlanta,Low,High,"DevOps, Cybersecurity, Communication, Machine Learning",64759,No,Decline,82,83
+Healthcare Administrator,Finance,Small,Austin,Medium,Medium,"Communication, Marketing Strategy",86063,Yes,Stable,63,50
+Product Manager,Education,Medium,Los Angeles,Medium,Low,"Tableau, Machine Learning, Power BI, DevOps",119276,No,Stable,27,0
+Logistics Coordinator,Healthcare,Medium,Boston,Medium,Medium,"Financial Modeling, DevOps, Agile",64328,No,Growth,58,53
+Graphic Designer,Finance,Medium,Denver,High,Low,"Python, Cloud Computing",111951,Yes,Stable,36,23
+Software Engineer,Energy,Large,San Francisco,High,Medium,"Data Analysis, Cloud Computing, Marketing Strategy, Excel",85303,Yes,Growth,48,38
+Accountant,Education,Medium,Denver,High,Low,"Deep Learning, Marketing Strategy, Data Analysis, Leadership, Tableau",104522,Yes,Stable,18,24
+Healthcare Administrator,Education,Large,New York,High,Medium,"Power BI, Communication, Leadership, Tableau",100406,Yes,Growth,47,25
+HR Manager,Technology,Large,Austin,Low,Low,"NLP, Java, Python",82966,Yes,Stable,31,20
+UX Designer,Transportation,Small,San Francisco,High,Medium,"Agile, UX Research, Excel",82183,Yes,Stable,39,38
+Healthcare Administrator,Media & Entertainment,Medium,San Francisco,Medium,Medium,"Deep Learning, Excel, Python",69206,No,Decline,41,26
+Supply Chain Manager,Healthcare,Small,Remote,Medium,Medium,"NLP, Data Analysis, Marketing Strategy",66812,No,Growth,51,47
+Cybersecurity Analyst,Energy,Medium,Denver,Low,Medium,"Project Management, Deep Learning",57393,No,Decline,61,66
+Logistics Coordinator,Retail,Large,Austin,High,Medium,"UX Research, Project Management, Marketing Strategy, Leadership, Excel",87195,No,Stable,60,57
+Legal Advisor,Manufacturing,Small,Los Angeles,High,Low,"Data Analysis, Machine Learning",104383,No,Stable,26,10
+Financial Analyst,Government,Small,Atlanta,Low,High,"Agile, Cybersecurity, Leadership, Financial Modeling, Machine Learning",67679,No,Stable,63,63
+Product Manager,Education,Small,San Francisco,Medium,Low,"Java, Excel",90917,No,Growth,24,25
+Cybersecurity Analyst,Manufacturing,Medium,Remote,High,Low,"NLP, Agile, Data Analysis, Financial Modeling",129780,Yes,Stable,27,18
+Cybersecurity Analyst,Technology,Large,Seattle,Medium,High,"Machine Learning, Java, Power BI, Excel, Project Management",56009,Yes,Stable,81,80
+Logistics Coordinator,Energy,Medium,Atlanta,Low,Medium,"DevOps, Marketing Strategy, Project Management",97806,No,Decline,63,45
+Content Writer,Media & Entertainment,Large,Denver,Low,High,"Financial Modeling, Cybersecurity, UX Research",67929,No,Decline,77,66
+Sales Manager,Education,Small,Los Angeles,Low,High,"Excel, Marketing Strategy, Communication",45216,Yes,Decline,79,76
+Legal Advisor,Healthcare,Small,New York,High,Medium,"Tableau, Excel, Project Management",95600,Yes,Growth,28,22
+Sales Manager,Healthcare,Medium,San Francisco,Medium,Low,"Marketing Strategy, Leadership",115024,Yes,Stable,17,0
+Accountant,Retail,Small,Remote,Medium,Medium,"Deep Learning, Machine Learning",58301,No,Growth,44,38
+Business Analyst,Energy,Small,Denver,Low,Low,"Cloud Computing, UX Research",95374,No,Growth,25,11
+Customer Service Rep,Manufacturing,Large,New York,Low,Medium,"DevOps, Financial Modeling",79297,No,Stable,50,44
+Marketing Analyst,Government,Medium,Chicago,High,Medium,"Java, Cloud Computing, Project Management",85839,Yes,Decline,52,52
+Data Scientist,Finance,Small,New York,Medium,Low,"NLP, Financial Modeling, Communication, Java",124364,No,Stable,35,48
+Supply Chain Manager,Education,Small,Seattle,Medium,Medium,"SQL, Communication",78373,Yes,Decline,52,51
+Content Writer,Manufacturing,Large,Seattle,Medium,Low,"NLP, Project Management, Machine Learning",119757,No,Growth,26,9
+Legal Advisor,Transportation,Medium,Seattle,Low,High,"Tableau, Python",71478,Yes,Decline,80,64
+Sales Manager,Manufacturing,Medium,Seattle,Low,Medium,"Python, Communication, Project Management, UX Research, Excel",68024,Yes,Growth,70,58
+DevOps Engineer,Energy,Large,Atlanta,Medium,High,"Excel, Cybersecurity, UX Research, NLP, Financial Modeling",76251,No,Decline,65,72
+Customer Service Rep,Finance,Medium,Denver,Medium,Medium,"Financial Modeling, Deep Learning, Agile",66806,No,Growth,45,56
+Supply Chain Manager,Healthcare,Small,Denver,Medium,High,"Marketing Strategy, Deep Learning, Python, Project Management",51971,Yes,Stable,86,80
+Graphic Designer,Healthcare,Medium,Los Angeles,Medium,Low,"SQL, Agile, Financial Modeling",103931,No,Stable,18,11
+Product Manager,Finance,Medium,Chicago,Medium,Medium,"Java, Project Management, Deep Learning, Machine Learning, Excel",77180,No,Stable,50,49
+DevOps Engineer,Energy,Small,Austin,High,Medium,"Marketing Strategy, Communication, Machine Learning, DevOps, Deep Learning",92218,Yes,Growth,52,49
+Sales Manager,Government,Large,Los Angeles,Medium,Medium,"NLP, DevOps, Agile, Machine Learning",72487,No,Decline,48,49
+Logistics Coordinator,Technology,Medium,Atlanta,Low,High,"Project Management, DevOps, Marketing Strategy, Communication",52233,Yes,Stable,94,95
+Content Writer,Transportation,Large,Remote,Low,High,"NLP, Project Management",61278,Yes,Decline,78,60
+UX Designer,Technology,Medium,Seattle,Medium,Medium,"Financial Modeling, Marketing Strategy, Data Analysis, Communication",93300,No,Decline,50,60
+Product Manager,Manufacturing,Small,Denver,High,Low,"DevOps, UX Research",109552,Yes,Stable,29,16
+Accountant,Retail,Medium,San Francisco,Medium,Medium,"Financial Modeling, NLP",71116,Yes,Growth,46,48
+Marketing Analyst,Transportation,Medium,New York,Medium,Medium,"Cloud Computing, Data Analysis, Python",96211,Yes,Growth,54,57
+Financial Analyst,Finance,Large,Atlanta,High,Low,"Java, Power BI, SQL, Python",113336,Yes,Growth,16,15
+Machine Learning Engineer,Education,Small,New York,Low,Low,"SQL, Financial Modeling, Project Management, UX Research",108229,Yes,Stable,27,22
+Sales Manager,Transportation,Medium,New York,Low,High,"SQL, Data Analysis, Cloud Computing, Marketing Strategy, Cybersecurity",72208,No,Decline,79,80
+Healthcare Administrator,Manufacturing,Large,Chicago,High,Low,"Communication, DevOps, Agile, Tableau, Marketing Strategy",106651,No,Stable,42,43
+Graphic Designer,Healthcare,Small,New York,Low,Medium,"Excel, Cybersecurity, Data Analysis, Python",85768,No,Growth,67,56
+DevOps Engineer,Education,Medium,Denver,Low,High,"Financial Modeling, Marketing Strategy, Leadership",51831,Yes,Decline,73,61
+HR Manager,Technology,Large,Chicago,Medium,Low,"NLP, Agile, Leadership",107019,No,Stable,11,6
+Accountant,Healthcare,Medium,Seattle,Low,High,"Leadership, Marketing Strategy, Python",61065,No,Stable,63,62
+Logistics Coordinator,Finance,Small,Seattle,Low,Medium,"Project Management, UX Research, Excel, Communication, Cybersecurity",60605,No,Growth,77,59
+Graphic Designer,Finance,Large,Denver,Medium,Low,"Agile, Python",92928,No,Stable,11,11
+Product Manager,Technology,Large,San Francisco,Medium,High,"Project Management, DevOps, Deep Learning, UX Research",59591,No,Decline,72,71
+UX Designer,Retail,Medium,Seattle,High,Medium,"Python, Financial Modeling, Deep Learning",83066,Yes,Stable,69,66
+UX Designer,Retail,Large,New York,High,Medium,"Financial Modeling, UX Research, Project Management, Java",80362,Yes,Stable,61,51
+Cybersecurity Analyst,Transportation,Small,San Francisco,High,Medium,"Cybersecurity, Data Analysis, Financial Modeling",76553,Yes,Stable,49,50
+Data Scientist,Transportation,Small,Denver,Medium,Medium,"Cybersecurity, Project Management, Java, Financial Modeling, SQL",70777,No,Decline,42,38
+Marketing Analyst,Media & Entertainment,Large,New York,Medium,Low,"Data Analysis, Project Management, Power BI",81507,Yes,Stable,33,20
+Cybersecurity Analyst,Manufacturing,Small,Chicago,High,High,"Project Management, Leadership, Machine Learning, Python",63075,No,Decline,86,80
+UX Designer,Energy,Medium,Los Angeles,Medium,High,"Data Analysis, Cybersecurity, Power BI, Agile, Leadership",66776,No,Stable,97,99
+Customer Service Rep,Energy,Medium,San Francisco,Medium,Low,"Tableau, Project Management",106726,Yes,Growth,29,19
+Product Manager,Energy,Large,New York,Low,High,"Tableau, SQL, Python",39112,Yes,Stable,81,82
+Sales Manager,Energy,Large,Remote,Low,Medium,"Data Analysis, Tableau, Leadership, Java, SQL",74008,No,Growth,44,34
+Business Analyst,Media & Entertainment,Small,Austin,High,High,"NLP, Java",65789,No,Decline,83,76
+Graphic Designer,Finance,Large,Los Angeles,Low,High,"Java, Communication",71106,No,Growth,77,72
+Supply Chain Manager,Energy,Medium,Boston,Low,High,"Java, DevOps",72410,No,Decline,80,78
+Sales Manager,Manufacturing,Small,Los Angeles,Medium,Low,"Excel, UX Research, NLP",94181,Yes,Growth,31,41
+Content Writer,Transportation,Medium,Atlanta,High,High,"DevOps, Excel, Python, UX Research",36800,Yes,Decline,86,94
+Business Analyst,Energy,Medium,Remote,High,Low,"DevOps, Power BI, Tableau, Cloud Computing, Financial Modeling",85884,No,Growth,5,0
+Marketing Analyst,Transportation,Medium,Los Angeles,Medium,Medium,"Marketing Strategy, Cybersecurity, Deep Learning, Excel, NLP",83434,No,Growth,58,53
+Content Writer,Energy,Small,Boston,Medium,High,"Excel, Java, Data Analysis",64594,No,Decline,71,58
+Accountant,Media & Entertainment,Small,Seattle,Low,Medium,"Deep Learning, Financial Modeling, Java",96735,No,Growth,57,48
+Supply Chain Manager,Healthcare,Large,New York,Medium,Medium,"Leadership, Data Analysis, Communication, Marketing Strategy",87186,No,Stable,47,48
+Business Analyst,Finance,Large,Los Angeles,High,Low,"Cybersecurity, Cloud Computing, UX Research, NLP, Marketing Strategy",104905,Yes,Growth,26,22
+Machine Learning Engineer,Transportation,Medium,Denver,Medium,High,"Project Management, Marketing Strategy, Deep Learning, Leadership",34109,Yes,Decline,86,66
+Product Manager,Transportation,Small,New York,Medium,Medium,"Python, Java, Excel, Cloud Computing",86248,No,Growth,58,61
+Financial Analyst,Finance,Medium,Remote,Medium,High,"Agile, Cloud Computing",57741,No,Decline,74,84
+Product Manager,Technology,Small,Denver,Medium,High,"Marketing Strategy, NLP, Machine Learning, Deep Learning, Financial Modeling",61793,No,Decline,81,86
+Graphic Designer,Transportation,Large,Denver,High,Low,"Communication, Project Management, Data Analysis, Cybersecurity, Leadership",98786,Yes,Growth,25,16
+Marketing Analyst,Government,Small,Atlanta,Low,Low,"Financial Modeling, Marketing Strategy, Power BI",97464,Yes,Stable,36,28
+DevOps Engineer,Manufacturing,Small,Atlanta,Medium,Low,"Cloud Computing, Cybersecurity, Communication, Project Management, Power BI",87867,No,Growth,22,20
+Software Engineer,Technology,Medium,Austin,Low,Low,"NLP, Communication, SQL",72315,Yes,Growth,13,9
+Graphic Designer,Healthcare,Small,Austin,Medium,High,"Data Analysis, Agile, Excel",71116,Yes,Stable,79,77
+Graphic Designer,Energy,Medium,Los Angeles,Medium,Low,"SQL, Leadership, UX Research, Cybersecurity",99559,No,Growth,32,26
+Healthcare Administrator,Media & Entertainment,Large,Boston,High,High,"Machine Learning, SQL, Power BI, Cybersecurity",52556,Yes,Stable,93,91
+Software Engineer,Energy,Large,Remote,Low,Medium,"DevOps, Java, Power BI, Cybersecurity",59647,Yes,Decline,51,45
+Logistics Coordinator,Transportation,Large,Atlanta,High,Low,"Python, Cybersecurity, Excel",128698,No,Stable,22,26
+Customer Service Rep,Energy,Large,San Francisco,Low,Medium,"Agile, DevOps, NLP",80454,Yes,Growth,56,64
+Customer Service Rep,Manufacturing,Medium,Chicago,Medium,Medium,"Python, Machine Learning, Deep Learning",96400,Yes,Decline,58,53
+Business Analyst,Transportation,Medium,Chicago,Medium,Medium,"Python, Project Management",112526,No,Stable,63,62
+Marketing Analyst,Retail,Small,New York,High,Medium,"SQL, Tableau",84758,Yes,Decline,57,56
+DevOps Engineer,Technology,Small,Los Angeles,Medium,Low,"Machine Learning, SQL, Deep Learning, Python, Marketing Strategy",78120,No,Stable,18,16
+Customer Service Rep,Technology,Small,Los Angeles,Medium,Low,"Machine Learning, Python, Deep Learning, Communication, Agile",82619,No,Stable,17,11
+Accountant,Healthcare,Large,Boston,High,Medium,"Leadership, Communication, SQL",84393,No,Decline,40,28
+DevOps Engineer,Healthcare,Small,Austin,Low,Medium,"Project Management, Power BI, UX Research",45254,Yes,Stable,33,35
+DevOps Engineer,Finance,Small,San Francisco,Low,Low,"Financial Modeling, NLP, Java",114361,No,Growth,31,2
+Supply Chain Manager,Media & Entertainment,Large,Atlanta,Medium,Low,"NLP, Communication, Python, Excel",104931,Yes,Growth,35,17
+Financial Analyst,Education,Large,Atlanta,Medium,Medium,"Excel, Leadership, Java, Power BI",64357,No,Growth,32,29
+Cybersecurity Analyst,Education,Medium,Austin,Medium,Low,"SQL, Python, Data Analysis, UX Research",92370,No,Growth,11,0
+Data Scientist,Energy,Small,Atlanta,Medium,Low,"NLP, Cybersecurity",98100,No,Stable,24,24
+Logistics Coordinator,Healthcare,Medium,San Francisco,Medium,Low,"UX Research, Java, Excel",93751,No,Decline,41,38
+DevOps Engineer,Education,Medium,Austin,Medium,Medium,"Leadership, Power BI",64014,No,Decline,75,62
+Marketing Analyst,Healthcare,Medium,Seattle,High,Medium,"Financial Modeling, SQL",89345,Yes,Stable,62,71
+Accountant,Education,Medium,New York,Low,High,"Power BI, Marketing Strategy",60573,Yes,Growth,79,71
+Machine Learning Engineer,Finance,Medium,Chicago,Medium,High,"Deep Learning, SQL, Financial Modeling, Java, Communication",62095,No,Decline,72,70
+Customer Service Rep,Energy,Small,San Francisco,Low,Low,"Java, Python, UX Research, SQL, NLP",118981,Yes,Growth,37,30
+DevOps Engineer,Transportation,Medium,Chicago,Low,High,"Excel, Deep Learning, Java",63832,No,Growth,96,93
+Healthcare Administrator,Government,Small,San Francisco,High,Medium,"Financial Modeling, Cybersecurity, Agile, Cloud Computing, DevOps",76869,No,Stable,52,61
+Software Engineer,Technology,Large,Austin,Low,High,"Cybersecurity, SQL",66860,Yes,Stable,96,95
+Machine Learning Engineer,Transportation,Small,Chicago,High,Low,"Project Management, UX Research, Marketing Strategy",82834,Yes,Growth,28,16
+HR Manager,Healthcare,Medium,Boston,High,Medium,"Tableau, Cybersecurity, Financial Modeling, Power BI",95148,Yes,Decline,72,65
+Legal Advisor,Transportation,Large,Seattle,Medium,Medium,"DevOps, Excel, Java, Project Management",77349,No,Growth,47,43
+Supply Chain Manager,Energy,Medium,Seattle,Medium,Medium,"Power BI, Communication, Java, Data Analysis",79243,No,Stable,53,42
+Supply Chain Manager,Government,Large,Atlanta,Low,Low,"UX Research, Cybersecurity, Machine Learning",94899,Yes,Growth,25,26
+DevOps Engineer,Finance,Small,Atlanta,Low,High,"Financial Modeling, Machine Learning, Data Analysis, Java, Project Management",47045,Yes,Stable,78,62
+Product Manager,Energy,Small,Austin,Low,Medium,"Communication, Machine Learning",89718,No,Growth,73,69
+Machine Learning Engineer,Manufacturing,Medium,Denver,High,Medium,"Tableau, Financial Modeling",87633,Yes,Stable,45,35
+DevOps Engineer,Transportation,Large,Chicago,Low,Low,"Deep Learning, Cloud Computing",100145,No,Stable,4,3
+Cybersecurity Analyst,Education,Medium,Boston,Medium,Medium,"Marketing Strategy, Agile, NLP, Tableau",99743,No,Stable,57,41
+Product Manager,Retail,Medium,Austin,Medium,Low,"UX Research, Agile, Financial Modeling, SQL, Cloud Computing",117833,Yes,Growth,19,26
+Business Analyst,Manufacturing,Small,Denver,Medium,High,"Marketing Strategy, Agile",85170,No,Decline,85,89
+Data Scientist,Technology,Large,Chicago,Low,Medium,"DevOps, UX Research, Python",74256,Yes,Growth,56,46
+Legal Advisor,Retail,Large,New York,Medium,Medium,"UX Research, Python",92183,Yes,Growth,37,19
